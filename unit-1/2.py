@@ -22,4 +22,7 @@ b = int(a)
 print('value of a before type casting :',a)
 print('Data type of a before type casting :',type(a))
 print('value of a after type casting :',b)
+
+print('Data type of a after type casting :',type(b))
+
 print('Data type of a after type casting :',type(b))
