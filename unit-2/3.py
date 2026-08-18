@@ -7,4 +7,8 @@ num = int(input("Enter a number: "))
 for i in range(1, 11):
 
 
+<<<<<<< HEAD
     print(num, "x", i, "=", num * i)
+=======
+    print(num, "x", i, "=", num * i)
+>>>>>>> 9e4e5e96d04ad1512ec4f64e04b081f0d35dd146
