@@ -9,7 +9,7 @@ text ="""
                                         """
 name=re.search(r"name:\s*(.*)", text ).group(1)
 age=re.search(r"age:\s*(\d+)", text ).group(1)
-email=re.search(r"email:\s*(\S+)", text ).group(1)
+email=re.search(r"email:\s*(\+)", text ).group(1)
 
 print("name:" ,name)
 print("age:" ,age)

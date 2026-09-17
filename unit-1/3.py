@@ -22,8 +22,8 @@ print('a != b :',a!=b)
 #Operational 
 print(a > 10 and b < 20)
 print(a > 10 or b < 20)
-<<<<<<< HEAD
+
 print(not(a==b))
-=======
+
 print(not(a==b))
->>>>>>> 0d797a0b77afa3bb5981fd789b372778162378d4
+

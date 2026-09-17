@@ -16,8 +16,8 @@ while num > 0:
    
     num = num // 10
 
-<<<<<<< HEAD
+
 print("Sum of digits =", sum)
-=======
+
 print("Sum of digits =", sum)
->>>>>>> 9e4e5e96d04ad1512ec4f64e04b081f0d35dd146
+

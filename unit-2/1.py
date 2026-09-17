@@ -1,26 +1,4 @@
-<<<<<<< HEAD
-# 1. Write a program to demonstrate conditional statements using if if-else and if-elif-else. 
 
-num=int(input("enter the number:"))
-
-if num >0:
-     print(" number is positive")
-
-if num % 2 == 0:
-     print("number is even ")
-
-else:
-    print("number is odd ")
-
-if num>0:
-     print("number is positive")
-
-elif num<0:
-     print("number is negative")
-
-else:
-    print("zero")
-=======
 # 1. Write a program to demonstrate conditional statements using if if-else and if-elif-else. 
 
 
@@ -43,4 +21,3 @@ elif num<0:
 
 else:
     print("zero")
->>>>>>> 9e4e5e96d04ad1512ec4f64e04b081f0d35dd146
